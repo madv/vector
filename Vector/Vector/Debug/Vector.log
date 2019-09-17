@@ -1,0 +1,6 @@
+﻿  Vector.cpp
+  Source.cpp
+  Generating Code...
+h:\university\cis 200 with vs\visual studio 2015\projects\vector\vector\vector.cpp(85): warning C4715: 'Vector::operator[]': not all control paths return a value
+  Vector.vcxproj -> H:\University\CIS 200 with VS\Visual Studio 2015\Projects\Vector\Debug\Vector.exe
+  Vector.vcxproj -> H:\University\CIS 200 with VS\Visual Studio 2015\Projects\Vector\Debug\Vector.pdb (Full PDB)
